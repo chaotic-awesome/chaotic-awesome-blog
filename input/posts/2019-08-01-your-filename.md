@@ -4,5 +4,4 @@ Tags: Intro to Daggers
 ---
 This is my second post!
 
-![sandrusty.png]({{site.baseurl}}/input/posts/sandrusty.png)
-
+![sandrusty.png](http://www.chaotic-awesome/input/posts/sandrusty.png)
